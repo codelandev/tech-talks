@@ -8,6 +8,7 @@
 2. [[slides]](slides/2-what-is-emberjs.pdf) What is Ember.js - [Patrick Muller][patrick]
 3. [[slides]](slides/3-organizando-o-front.pdf) Como organizamos o front-end da CODELAND - [Filipe Linhares][filipe]
 4. Arduino for/by newbies - [André Pinho][andre]
+5. [[slides]](slides/4-cor-fundamentos.pdf) cor:fundamentos - [Ana Jahn][ana]
 
 ## Dicas e sugestões
 
