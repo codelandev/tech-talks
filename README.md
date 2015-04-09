@@ -9,6 +9,7 @@
 3. [[slides]](slides/3-organizando-o-front.pdf) Como organizamos o front-end da CODELAND - [Filipe Linhares][filipe]
 4. Arduino for/by newbies - [André Pinho][andre]
 5. [[slides]](slides/4-cor-fundamentos.pdf) cor:fundamentos - [Ana Jahn][ana]
+6. [[slides]](slides/5-mussarela.pdf) Mussarela - [Filipe Linhares][filipe]
 
 ## Dicas e sugestões
 
