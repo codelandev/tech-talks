@@ -10,6 +10,7 @@
 4. Arduino for/by newbies - [André Pinho][andre]
 5. [[slides]](slides/4-cor-fundamentos.pdf) cor:fundamentos - [Ana Jahn][ana]
 6. [[slides]](slides/5-mussarela.pdf) Mussarela - [Filipe Linhares][filipe]
+7. [live code] Async - [Patrick Muller][patrick]
 
 ## Dicas e sugestões
 
