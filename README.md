@@ -12,6 +12,7 @@
 6. [[slides]](slides/5-mussarela.pdf) Mussarela - [Filipe Linhares][filipe]
 7. [live code] Async - [Patrick Muller][patrick]
 8. [[slides]](slides/8-copycopter.pdf) Copycopter - [André Pinho][andre]
+9. [[slides]](slides/9-transcendental-meditation-developers-edition.pdf) Transcendental Meditation - Developers Edition - [André Pinho][andre]
 
 ## Dicas e sugestões
 
