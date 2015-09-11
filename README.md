@@ -14,6 +14,8 @@
 8. [[slides]](slides/8-copycopter.pdf) Copycopter - [André Pinho][andre]
 9. [[slides]](slides/9-vim.pdf) Vim - [Filipe Linhares][filipe]
 10. [[slides]](slides/10-transcendental-meditation-developers-edition.pdf) Transcendental Meditation - Developers Edition - [André Pinho][andre]
+11. [[slides]](slides/11-performance-no-front-pt1.pdf) Performance no front-end Pt1, imagens - [Filipe Linhares][filipe]
+
 
 ## Dicas e sugestões
 
